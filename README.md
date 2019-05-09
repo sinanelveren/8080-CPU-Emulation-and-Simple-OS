@@ -9,13 +9,13 @@
 
 
 
->. PRINT_B
+**PRINT_B**
 
 Prints the contents of register B on the screen as a decimal number.
 
 
 
-PRINT_MEM 
+**PRINT_MEM** 
 Prints the contents of the memory pointed by registers B and C as a decimal number.
 
 
