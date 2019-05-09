@@ -9,7 +9,8 @@
 
 
 
->. PRINT_B 
+>. PRINT_B
+
 Prints the contents of register B on the screen as a decimal number.
 
 
