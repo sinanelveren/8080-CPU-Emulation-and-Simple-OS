@@ -1,0 +1,34 @@
+
+
+FileCreate 	implemented 
+FileClose 	implemented 
+FileOpen 	implemented
+FileRead 	implemented
+FileWrite	implemented
+FileSeek	not implement
+DirRead		not implement
+
+
+Use Debug mode "0"  "1"  "(2 old hw)"
+
+
+
+P1  :
+	0..50 bytes has been write to file sytem from memory succesfuly. (mem location 0x0600) (file block '0')
+	but, there are a problem on fileSystem.dat file, I don't have time for fix it.
+
+	You can open it with "cat fileSystem.dat" command.  I will write bytes succesfuly.
+
+P2 :
+	Working correctly but, while i read from file system when there are only one file.. I chose fildeHandler as "0" (default) 
+	so it independent from fileName -- (i tried file name "newFile"). (Note: i couldn't file handler from E register. Its always read 0, but I know I used it correctly.)
+
+
+I didnt do rest of hw before dead line, sorry.
+
+
+
+
+
+
+
