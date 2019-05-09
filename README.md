@@ -9,7 +9,7 @@
 
 
 
-## OS Calls
+## OS Calls:
 **PRINT_B :** Prints the contents of register B on the screen as a decimal number.
 
 
@@ -79,7 +79,7 @@
 
 
 
- * **ASM Programs:**
+ ## ASM Programs:
 
 
 1. PrintNumbers.asm: file that prints integers from 0 to 50 by steps of 2 on the screen. Each
